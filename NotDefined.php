@@ -1,4 +1,7 @@
-<?php
+<!DOCTYPE html>
+<html>
+<body>
+    <?php
 
     function add($x, $y)
     {
@@ -11,5 +14,6 @@ add($x, $y);
 
 diff($x, $y);
     ?>
-
+</body>
+</html>
 
